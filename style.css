@@ -1,0 +1,12 @@
+head, body, footer {
+    background-color: burlywood;
+}
+h1, h2, h3 {
+    color: rgb(77, 56, 0);
+}
+p {
+    color:rgb(22, 7, 0);
+}
+a {
+    color: white;
+}
