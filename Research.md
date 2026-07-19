@@ -8,3 +8,6 @@ https://www.linkedin.com/posts/wong-jasmine_5-steps-to-evaluate-your-digital-ris
 
 Cloudfare post on how it works:
 https://www.cloudflare.com/learning/access-management/phishing-attack/ 
+
+Reminding myself of ul:
+https://www.geeksforgeeks.org/html/html-ul-tag/
